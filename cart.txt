@@ -1,1 +1,1 @@
-amount = $200
+This is cart updated by Ishita.
