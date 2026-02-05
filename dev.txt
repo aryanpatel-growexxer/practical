@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-This is Dev feature
-=======
+
 I have added dev features
->>>>>>> 1ec6e2587ebb74fffb7e3be6b674c7f7fdf36f6d
+
